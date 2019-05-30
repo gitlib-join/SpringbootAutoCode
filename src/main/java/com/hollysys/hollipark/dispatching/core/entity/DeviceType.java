@@ -2,7 +2,7 @@ package com.hollysys.hollipark.dispatching.core.entity;
 
 public class DeviceType {
 /**
-* 设备类型Id aaa
+* 设备类型Id aaaaaaaaaddddddd
 */
 private Long id;
 
